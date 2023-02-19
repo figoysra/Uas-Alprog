@@ -1,0 +1,10 @@
+# ninja log v5
+19	659	6985091471680873	CMakeFiles/untitled.dir/main.cpp.obj	bd4e870908429f4e
+329	444	6984723290104844	untitled.exe	261af487ef5b78b9
+7	135	6985091466438925	CMakeFiles/untitled.dir/LuasTrapesium.cpp.obj	bd47672facd142b6
+1	325	6985091597276808	build.ninja	efc9ea89d1a383e9
+2	127	6985091599251140	untitled.exe	261af487ef5b78b9
+3	411	6985096228772470	CMakeFiles/untitled.dir/main.cpp.obj	bd4e870908429f4e
+411	641	6985096230971456	untitled.exe	261af487ef5b78b9
+6	392	6985096513729448	CMakeFiles/untitled.dir/main.cpp.obj	bd4e870908429f4e
+392	580	6985096515550103	untitled.exe	261af487ef5b78b9
